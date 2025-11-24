@@ -5,6 +5,7 @@
 <br/>
 
 <p align="center">
+  <!-- GIF of male programmer -->
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 
@@ -35,30 +36,30 @@
 ---
 
 ## 🧰 Tech Toolbox  
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px;">
-  <img src="https://skillicons.dev/icons?i=dart" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=flutter" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=js" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=html" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=css" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=git" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=github" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=ps" width="55" class="icon-anim"/>
-  <img src="https://skillicons.dev/icons?i=netlify" width="55" class="icon-anim"/>
+
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=dart" width="55" style="margin: 12px"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="55" style="margin: 12px"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="55" style="margin: 12px"/>
+  <img src="https://skillicons.dev/icons?i=js" width="55" style="margin: 12px"/>
 </p>
 
-<!-- ICON ANIMATION -->
-<style>
-  .icon-anim {
-    transition: transform 0.25s ease-in-out;
-  }
-  .icon-anim:hover {
-    transform: translateY(-6px) scale(1.1);
-  }
-</style>
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=ts" width="55" style="margin: 12px"/>
+  <img src="https://skillicons.dev/icons?i=html" width="55" style="margin: 12px"/>
+  <img src="https://skillicons.dev/icons?i=css" width="55" style="margin: 12px"/>
+  <img src="https://skillicons.dev/icons?i=git" width="55" style="margin: 12px"/>
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=github" width="55" style="margin: 12px"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="55" style="margin: 12px"/>
+  <img src="https://skillicons.dev/icons?i=ps" width="55" style="margin: 12px"/>
+  <img src="https://skillicons.dev/icons?i=netlify" width="55" style="margin: 12px"/>
+</p>
 
 ---
 
@@ -84,19 +85,11 @@
 
 ---
 
-## 🧭 Fun Mini Badges  
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter❤️-Passion-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clean_Code-Always-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UI/UX-Lover-pink?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Learning-Everyday-orange?style=flat-square"/>
-</p>
-
----
-
 ## 🔢 Visitor Counter  
+
+<!-- Dark premium visitor counter with simple animation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-73-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=4CC9F0"/>
+  <img src="https://img.shields.io/badge/Visitors-73-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=111111&animation=fade"/>
 </p>
 
 ---
