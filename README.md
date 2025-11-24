@@ -5,8 +5,7 @@
 <br/>
 
 <p align="center">
-  <!-- New GIF of a male programmer -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -20,32 +19,46 @@
 
 ---
 
-## 🧰 Tech Toolbox  
-
-<!-- Animation + Spacing Style -->
-<style>
-.icons img {
-  margin: 12px;
-  transition: transform 0.2s ease-in-out;
-}
-.icons img:hover {
-  transform: scale(1.18);
-}
-</style>
-
-<p align="center" class="icons">
-  <img src="https://skillicons.dev/icons?i=dart" width="55"/>
-  <img src="https://skillicons.dev/icons?i=flutter" width="55"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="55"/>
-  <img src="https://skillicons.dev/icons?i=js" width="55"/>
-  <img src="https://skillicons.dev/icons?i=html" width="55"/>
-  <img src="https://skillicons.dev/icons?i=css" width="55"/>
-  <img src="https://skillicons.dev/icons?i=git" width="55"/>
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="55"/>
-  <img src="https://skillicons.dev/icons?i=ps" width="55"/>
-  <img src="https://skillicons.dev/icons?i=netlify" width="55"/>
+## 🌐 Where to Find Me
+<p align="left">
+  <a href="https://linkedin.com/in/abdullah-debo-2374a317b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+  <a href="https://x.com/valencawie" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48"/>
+  </a>
+  <a href="mailto:abdullah.alskh.debo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
 </p>
+
+---
+
+## 🧰 Tech Toolbox  
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px;">
+  <img src="https://skillicons.dev/icons?i=dart" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=js" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=html" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=css" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=git" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=ps" width="55" class="icon-anim"/>
+  <img src="https://skillicons.dev/icons?i=netlify" width="55" class="icon-anim"/>
+</p>
+
+<!-- ICON ANIMATION -->
+<style>
+  .icon-anim {
+    transition: transform 0.25s ease-in-out;
+  }
+  .icon-anim:hover {
+    transform: translateY(-6px) scale(1.1);
+  }
+</style>
 
 ---
 
@@ -82,21 +95,8 @@
 ---
 
 ## 🔢 Visitor Counter  
-
 <p align="center">
-
-  <!-- Elegant & Premium Counter -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=abdullahdebo&label=Profile%20Visitors&color=1A1A1A&style=for-the-badge&logo=github&logoColor=white" 
-  />
-
-  <br/><br/>
-
-  <!-- Secondary Counter with a more premium style -->
-  <img 
-    src="https://img.shields.io/badge/Visits-73%2B-000000?style=for-the-badge&logo=github&logoColor=white"
-  />
-
+  <img src="https://img.shields.io/badge/Visitors-73-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=4CC9F0"/>
 </p>
 
 ---
