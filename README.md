@@ -1,47 +1,20 @@
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" style="border-radius:12px;"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" style="border-radius:12px;"/>
 </p>
 
-<h1 align="center" style="color:#4CC9F0;">👋 Hi, I'm Abdullah</h1>
-<h3 align="center" style="color:#A0AEC0;">Flutter Developer | Clean Architecture | UI/UX Enthusiast</h3>
+<h1 align="center" style="color:#4CC9F0;">👋 Hi, I’m Abdullah</h1>
+<h3 align="center" style="color:#A0AEC0;">Flutter Developer | UI/UX Enthusiast | Clean Architecture Lover</h3>
 
 ---
 
-## 🌌 About Me
+## 💫 About Me
 <p align="center" style="color:#E2E8F0; line-height:1.6;">
-I’m a passionate <b>Flutter Developer</b> who loves building <b>modern, high-performance mobile apps</b>.<br>
-I follow <b>Clean Code</b> and <b>Clean Architecture</b> principles, crafting smooth and intuitive UIs.<br>
-Always learning, exploring new technologies, and turning ideas into <b>functional digital experiences</b>.
-</p>
-
----
-
-## 🛠️ Tech Stack
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
-  <img src="https://skillicons.dev/icons?i=dart" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=flutter" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=js" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=html" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=css" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=git" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=github" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=ps" width="60" style="margin:5px;"/>
-  <img src="https://skillicons.dev/icons?i=netlify" width="60" style="margin:5px;"/>
-</p>
-
----
-
-## 💡 What I Do
-<p align="center" style="color:#E2E8F0; line-height:1.6;">
-- 📱 Build smooth & responsive Flutter apps.<br>
-- ⚙️ Manage state with <b>Cubit/BLoC</b>.<br>
-- 🧱 Implement <b>Clean Architecture</b>.<br>
-- 🎨 Transform ideas into <b>intuitive UI/UX</b>.<br>
-- 🚀 Explore & integrate new technologies.
+I’m a passionate <b>Flutter Developer</b> focused on crafting <b>high-quality mobile apps</b>.<br>
+I enjoy building <b>clean, intuitive, and user-friendly interfaces</b> and love exploring front-end technologies.<br>
+I work with <b>Cubit/BLoC</b> for state management and follow <b>Clean Code</b> & <b>Clean Architecture</b> principles.<br>
+Always eager to <b>learn new technologies</b> and transform ideas into <b>elegant digital experiences</b>.<br>
+Every day, I aim to <b>grow, explore, and build better solutions</b>.
 </p>
 
 ---
@@ -49,46 +22,53 @@ Always learning, exploring new technologies, and turning ideas into <b>functiona
 ## 🌐 Socials
 <p align="center">
   <a href="https://linkedin.com/in/abdullah-debo-2374a317b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="margin:10px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" style="margin:5px;"/>
   </a>
   <a href="https://x.com/valencawie" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" style="margin:10px;"/>
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" style="margin:5px;"/>
   </a>
   <a href="mailto:abdullah.alskh.debo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" style="margin:10px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" style="margin:5px;"/>
   </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahdebo&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abdullahdebo&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahdebo&theme=dark&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abdullahdebo&theme=dark&hide_border=true" height="150"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdebo&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdebo&theme=dark&layout=compact&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 🔢 Visitor Counter
 <p align="center">
-  <span style="display:inline-block; padding:10px 20px; border-radius:12px; background:linear-gradient(135deg,#1A1A1A,#111111); color:#4CC9F0; font-weight:bold; font-size:18px; transition: transform 0.3s;">
-    Visitors: 73+
-  </span>
+  <img src="https://img.shields.io/badge/Visitors-73-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=0D1117"/>
 </p>
-
-<style>
-span:hover {
-  transform: scale(1.1);
-  color:#00FFEA;
-}
-</style>
 
 ---
 
 <p align="center" style="color:#A0AEC0; font-style:italic;">
-✨ Crafted with AI-inspired design & clean code ✨
+✨ Crafted with ❤️ and Clean Code
 </p>
