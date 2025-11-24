@@ -1,26 +1,26 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey there, I’m <span style="color:#4CC9F0;">Abdullah</span></h1>
-<h3 align="center">🚀 Flutter Developer | UI Lover | Clean Architecture Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#5BC0F8;">Abdullah</span></h1>
+<h3 align="center">🚀 Flutter Developer | Clean Architecture | UI/UX Enthusiast</h3>
 
 <br/>
 
+<!-- Premium Dark Programmer GIF -->
 <p align="center">
-  <!-- Dark, classy programmer image -->
-  <img src="https://i.imgur.com/7yUvePI.gif" width="270" style="border-radius: 12px;"/>
+  <img src="https://i.imgur.com/qfS9VHt.gif" width="300" style="border-radius: 10px;" />
 </p>
 
 ---
 
-## ✨ About Me
-👨‍💻 **Flutter Developer** passionate about crafting beautiful, smooth, and modern mobile applications.  
-🎨 I love building clean, intuitive user interfaces with strong attention to detail.  
-⚙️ I use **Cubit/BLoC**, follow **Clean Code**, and apply **Clean Architecture** principles.  
-🔥 Always learning, improving, and transforming ideas into functional digital experiences.  
-🌱 I enjoy exploring new technologies and improving my skill set every day.
+## ✨ About Me  
+👨‍💻 Passionate **Flutter Developer** building smooth, modern mobile apps.  
+🎨 Focused on clean UI/UX and interaction design.  
+🧱 Following **Clean Architecture**, **Clean Code**, Cubit & BLoC.  
+⚡ Always exploring new technologies and improving my craft.  
+🔥 I believe in creating elegant, functional digital experiences.
 
 ---
 
-## 🌐 Where to Find Me
+## 🌐 Socials
 <p align="left">
   <a href="https://linkedin.com/in/abdullah-debo-2374a317b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
@@ -42,52 +42,43 @@
 
 ---
 
-## 🏗️ What I’m Good At
-- 📱 Creating smooth & responsive Flutter apps  
-- 🎯 Writing clean, readable, and maintainable code  
-- 🧩 State management using Cubit / BLoC  
-- 🧱 Applying Clean Architecture  
-- 🎨 Designing intuitive UI/UX  
-- 🚀 Building modern front-end experiences  
+## 🏗️ Skills Snapshot
+- 📱 Building modern Flutter applications  
+- 🧩 Cubit / BLoC state management  
+- 🧱 Clean Architecture & clean project structure  
+- 🎨 Designing intuitive user experiences  
+- 🚀 Frontend development & best UI practices  
 
 ---
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahdebo&theme=radical&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abdullahdebo&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahdebo&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abdullahdebo&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdebo&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🧭 Fun Mini Badges  
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter❤️-Passion-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clean_Code-Always-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UI/UX-Lover-pink?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Learning-Everyday-orange?style=flat-square"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdebo&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🔢 Visitor Counter  
+## 🔢 Visitor Counter (Premium Style)
 <p align="center">
 
-  <!-- Custom dark counter with male/programmer vibe and offset starting at 73 -->
-  <img src="https://komarev.com/ghpvc/?username=abdullahdebo&color=0E1117&style=for-the-badge&label=Visitors" />
-  
-  <!-- Offset counter starting from 73 -->
-  <br/>
-  <img src="https://hits.sh/github.com/abdullahdebo.svg?label=Profile%20Hits&color=000000&extraCount=73&logo=github" />
+  <!-- Clean dark counter with offset -->
+  <img src="https://countapi.xyz/hit/abdullahdebo.github/profile?amount=1" width="0" height="0">
 
+  <img src="https://img.shields.io/badge/Visitors-73+-0A0F0F?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=111111" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Live%20Counter-Working-1F6FEB?style=flat-square&logo=github" />
 </p>
+
 
 ---
 
 <p align="center">
-  <i>✨ Built with passion, crafted with clean code ✨</i>
+  <i>✨ Crafted with clean code & good taste ✨</i>
 </p>
