@@ -20,24 +20,31 @@
 
 ---
 
-## 🌐 Where to Find Me
-<p align="left">
-  <a href="https://linkedin.com/in/abdullah-debo-2374a317b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-  <a href="https://x.com/valencawie" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48"/>
-  </a>
-  <a href="mailto:abdullah.alskh.debo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-  </a>
-</p>
-
----
-
 ## 🧰 Tech Toolbox  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,ts,html,css,git,github,figma,ps,netlify" />
+
+<!-- Animation + Spacing Style -->
+<style>
+.icons img {
+  margin: 12px;
+  transition: transform 0.2s ease-in-out;
+}
+.icons img:hover {
+  transform: scale(1.18);
+}
+</style>
+
+<p align="center" class="icons">
+  <img src="https://skillicons.dev/icons?i=dart" width="55"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="55"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="55"/>
+  <img src="https://skillicons.dev/icons?i=js" width="55"/>
+  <img src="https://skillicons.dev/icons?i=html" width="55"/>
+  <img src="https://skillicons.dev/icons?i=css" width="55"/>
+  <img src="https://skillicons.dev/icons?i=git" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="55"/>
+  <img src="https://skillicons.dev/icons?i=ps" width="55"/>
+  <img src="https://skillicons.dev/icons?i=netlify" width="55"/>
 </p>
 
 ---
@@ -75,9 +82,21 @@
 ---
 
 ## 🔢 Visitor Counter  
+
 <p align="center">
-  <!-- WORKING Visitor Counter -->
-  <img src="https://count.getloli.com/get/@abdullahdebo?theme=rule34" />
+
+  <!-- Elegant & Premium Counter -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=abdullahdebo&label=Profile%20Visitors&color=1A1A1A&style=for-the-badge&logo=github&logoColor=white" 
+  />
+
+  <br/><br/>
+
+  <!-- Secondary Counter with a more premium style -->
+  <img 
+    src="https://img.shields.io/badge/Visits-73%2B-000000?style=for-the-badge&logo=github&logoColor=white"
+  />
+
 </p>
 
 ---
