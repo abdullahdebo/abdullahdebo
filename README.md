@@ -1,4 +1,3 @@
-<!-- HEADER GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" style="border-radius:12px;"/>
 </p>
@@ -12,7 +11,7 @@
 <p align="center" style="color:#E2E8F0; line-height:1.6;">
 I’m a passionate <b>Flutter Developer</b> focused on creating <b>modern, high-quality mobile applications</b>.<br>
 I enjoy building <b>clean, intuitive, and user-friendly interfaces</b> and I have a strong interest in front-end development.<br>
-I work with <b>Cubit/BLoC</b> for state management and follow <b>Clean Code</b> &amp; <b>Clean Architecture</b> principles.<br>
+I work with <b>Cubit/BLoC</b> for state management and follow <b>Clean Code</b> & <b>Clean Architecture</b> principles.<br>
 I’m always excited to <b>learn new technologies</b> and improve my skills.<br>
 I love transforming ideas into <b>elegant, functional digital experiences</b>.<br>
 Every day, I aim to <b>grow, explore, and build better solutions</b>.
@@ -60,29 +59,5 @@ Every day, I aim to <b>grow, explore, and build better solutions</b>.
 
 ## 🔢 Visitor Counter
 <p align="center">
-  <div style="
-    display:inline-block;
-    width:300px;
-    padding:14px 16px;
-    border-radius:14px;
-    background: rgba(255,255,255,0.03);
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
-    border: 1px solid rgba(255,255,255,0.05);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.45);
-    text-align:center;
-  ">
-    <div style="font-weight:700; color:#DFF7FF; font-size:15px; margin-bottom:8px;">
-      👁‍🗨 Visitors
-    </div>
-
-    <div>
-      <img
-        src="https://profile-counter.glitch.me/abdullahdebo/count.svg?start=73&color=4CC9F0"
-        alt="Visitor Count"
-        style="border-radius:10px; box-shadow: 0 8px 20px rgba(76,201,240,0.08);"
-        width="200"
-      />
-    </div>
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=abdullahdebo&label=Profile%20Views&color=4CC9F0&style=flat-square&start=73" alt="Profile Views" />
 </p>
