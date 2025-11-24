@@ -5,7 +5,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200"/>
+  <!-- New GIF of a male programmer -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
 </p>
 
 ---
@@ -73,9 +74,10 @@
 
 ---
 
-## 🔢 Visitor Counter
+## 🔢 Visitor Counter  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abdullahdebo&icon=6&color=1"/>
+  <!-- WORKING Visitor Counter -->
+  <img src="https://count.getloli.com/get/@abdullahdebo?theme=rule34" />
 </p>
 
 ---
