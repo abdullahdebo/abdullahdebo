@@ -1,4 +1,3 @@
-<!-- README.md -->
 <!-- HEADER GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" style="border-radius:12px;"/>
@@ -13,7 +12,7 @@
 <p align="center" style="color:#E2E8F0; line-height:1.6;">
 I’m a passionate <b>Flutter Developer</b> focused on creating <b>modern, high-quality mobile applications</b>.<br>
 I enjoy building <b>clean, intuitive, and user-friendly interfaces</b> and I have a strong interest in front-end development.<br>
-I work with <b>Cubit/BLoC</b> for state management and follow <b>Clean Code</b> & <b>Clean Architecture</b> principles.<br>
+I work with <b>Cubit/BLoC</b> for state management and follow <b>Clean Code</b> &amp; <b>Clean Architecture</b> principles.<br>
 I’m always excited to <b>learn new technologies</b> and improve my skills.<br>
 I love transforming ideas into <b>elegant, functional digital experiences</b>.<br>
 Every day, I aim to <b>grow, explore, and build better solutions</b>.
@@ -59,49 +58,31 @@ Every day, I aim to <b>grow, explore, and build better solutions</b>.
 
 ---
 
-## 🔢 Visitor Counter — عداد بشريط متحرك أننيق
+## 🔢 Visitor Counter
 <p align="center">
-  <!-- Glass Card with animated stripe + live counter badge -->
-  <div align="center" style="
-    width:340px;
-    padding:14px;
-    border-radius:18px;
-    background:linear-gradient(135deg, rgba(255,255,255,0.03), rgba(255,255,255,0.02));
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    border:1px solid rgba(255,255,255,0.06);
-    box-shadow: 0 8px 30px rgba(0,0,0,0.45);
+  <div style="
+    display:inline-block;
+    width:300px;
+    padding:14px 16px;
+    border-radius:14px;
+    background: rgba(255,255,255,0.03);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 1px solid rgba(255,255,255,0.05);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.45);
+    text-align:center;
   ">
-    <!-- Animated stripe (decorative) -->
-    <div style="
-      width:100%;
-      height:12px;
-      border-radius:8px;
-      overflow:hidden;
-      margin-bottom:12px;
-      box-shadow: inset 0 0 12px rgba(76,201,240,0.08);
-    ">
-      <!-- a lightweight animated GIF as decorative moving stripe -->
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
-           alt="animated stripe"
-           style="width:100%; height:12px; object-fit:cover; display:block;" />
+    <div style="font-weight:700; color:#DFF7FF; font-size:15px; margin-bottom:8px;">
+      👁‍🗨 Visitors
     </div>
 
-    <!-- Title above the badge -->
-    <div style="font-weight:600; color:#E6F7FF; font-size:14px; margin-bottom:6px;">
-      👀 Visitors
-    </div>
-
-    <!-- Live visitor badge (increments on each visit) -->
     <div>
-      <!-- Using Komarev / GitHub Profile Views Counter — starts from 73 -->
       <img
-        src="https://komarev.com/ghpvc/?username=abdullahdebo&color=4CC9F0&style=for-the-badge&label=Visitors&start=73"
+        src="https://profile-counter.glitch.me/abdullahdebo/count.svg?start=73&color=4CC9F0"
         alt="Visitor Count"
-        style="border-radius:12px; box-shadow: 0 6px 18px rgba(76,201,240,0.12);"
+        style="border-radius:10px; box-shadow: 0 8px 20px rgba(76,201,240,0.08);"
+        width="200"
       />
     </div>
   </div>
 </p>
-
-
