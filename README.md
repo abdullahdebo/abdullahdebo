@@ -1,3 +1,4 @@
+<!-- README.md -->
 <!-- HEADER GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" style="border-radius:12px;"/>
@@ -58,20 +59,49 @@ Every day, I aim to <b>grow, explore, and build better solutions</b>.
 
 ---
 
-## 🔢 Visitor Counter
+## 🔢 Visitor Counter — عداد بشريط متحرك أننيق
 <p align="center">
-  <div style="
-    width:260px;
-    padding:15px;
-    border-radius:16px;
-    background:rgba(255,255,255,0.08);
-    backdrop-filter:blur(8px);
-    -webkit-backdrop-filter:blur(8px);
-    border:1px solid rgba(255,255,255,0.1);
-    box-shadow:0 0 15px rgba(76,201,240,0.35);
-    text-align:center;
+  <!-- Glass Card with animated stripe + live counter badge -->
+  <div align="center" style="
+    width:340px;
+    padding:14px;
+    border-radius:18px;
+    background:linear-gradient(135deg, rgba(255,255,255,0.03), rgba(255,255,255,0.02));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border:1px solid rgba(255,255,255,0.06);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.45);
   ">
-    <img src="https://profile-counter.glitch.me/abdullahdebo/count.svg?start=73" width="200"/>
+    <!-- Animated stripe (decorative) -->
+    <div style="
+      width:100%;
+      height:12px;
+      border-radius:8px;
+      overflow:hidden;
+      margin-bottom:12px;
+      box-shadow: inset 0 0 12px rgba(76,201,240,0.08);
+    ">
+      <!-- a lightweight animated GIF as decorative moving stripe -->
+      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
+           alt="animated stripe"
+           style="width:100%; height:12px; object-fit:cover; display:block;" />
+    </div>
+
+    <!-- Title above the badge -->
+    <div style="font-weight:600; color:#E6F7FF; font-size:14px; margin-bottom:6px;">
+      👀 Visitors
+    </div>
+
+    <!-- Live visitor badge (increments on each visit) -->
+    <div>
+      <!-- Using Komarev / GitHub Profile Views Counter — starts from 73 -->
+      <img
+        src="https://komarev.com/ghpvc/?username=abdullahdebo&color=4CC9F0&style=for-the-badge&label=Visitors&start=73"
+        alt="Visitor Count"
+        style="border-radius:12px; box-shadow: 0 6px 18px rgba(76,201,240,0.12);"
+      />
+    </div>
   </div>
 </p>
+
 
