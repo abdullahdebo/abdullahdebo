@@ -59,6 +59,19 @@ Every day, I aim to <b>grow, explore, and build better solutions</b>.
 ---
 
 ## 🔢 Visitor Counter
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=abdullahdebo&color=4CC9F0&style=for-the-badge&label=Visitors&start=72" alt="Profile Views" />  
+<p align="center">
+  <div style="
+    width:260px;
+    padding:15px;
+    border-radius:16px;
+    background:rgba(255,255,255,0.08);
+    backdrop-filter:blur(8px);
+    -webkit-backdrop-filter:blur(8px);
+    border:1px solid rgba(255,255,255,0.1);
+    box-shadow:0 0 15px rgba(76,201,240,0.35);
+    text-align:center;
+  ">
+    <img src="https://profile-counter.glitch.me/abdullahdebo/count.svg?start=73" width="200"/>
+  </div>
 </p>
+
