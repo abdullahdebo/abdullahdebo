@@ -5,8 +5,8 @@
 <br/>
 
 <p align="center">
-  <!-- New GIF of a male programmer -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+  <!-- Dark, classy programmer image -->
+  <img src="https://i.imgur.com/7yUvePI.gif" width="270" style="border-radius: 12px;"/>
 </p>
 
 ---
@@ -76,8 +76,14 @@
 
 ## 🔢 Visitor Counter  
 <p align="center">
-  <!-- WORKING Visitor Counter -->
-  <img src="https://count.getloli.com/get/@abdullahdebo?theme=rule34" />
+
+  <!-- Custom dark counter with male/programmer vibe and offset starting at 73 -->
+  <img src="https://komarev.com/ghpvc/?username=abdullahdebo&color=0E1117&style=for-the-badge&label=Visitors" />
+  
+  <!-- Offset counter starting from 73 -->
+  <br/>
+  <img src="https://hits.sh/github.com/abdullahdebo.svg?label=Profile%20Hits&color=000000&extraCount=73&logo=github" />
+
 </p>
 
 ---
