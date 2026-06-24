@@ -1,79 +1,131 @@
-<!-- ════════════════════════════════════════ -->
-<!--                  HERO                     -->
-<!-- ════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=42&duration=2800&pause=900&color=13B5F3&center=true&vCenter=true&width=600&height=75&lines=Abdullah+Debo" alt="Abdullah Debo" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey,+I'm+Abdullah+Debo;Flutter+Developer;Building+Beautiful+Mobile+Experiences" />
 
-<p><strong>Flutter Developer</strong>&nbsp; ·&nbsp; Building refined mobile experiences</p>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=540&lines=Clean+Architecture+%E2%80%A2+Cubit+%2F+BLoC;Pixel-perfect+UI+%E2%80%A2+Smooth+UX;Writing+code+that+lasts" alt="Roles" />
+<img src="https://img.shields.io/badge/Flutter-Expert-00E5FF?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean_Architecture-Advanced-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI%2FUX-Lover-FF00AA?style=for-the-badge" />
 
-<br/><br/>
+<br><br>
 
-<a href="https://adebo.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=netlify&logoColor=13B5F3&labelColor=0D1117" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/abdullah-debo-2374a317b"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=13B5F3&labelColor=0D1117" /></a>&nbsp;
-<a href="mailto:abdullah.alskh.debo@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=13B5F3&labelColor=0D1117" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=abdullahdebo&label=Profile+Views&color=13B5F3&style=flat-square&labelColor=0D1117" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=abdullahdebo&data=followers,repositories,stars,commits&theme=dark" />
 
 </div>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════ -->
-<!--                 ABOUT                     -->
-<!-- ════════════════════════════════════════ -->
+# ⚡ About Me
 
-> ### ⟡ &nbsp;A little about me
->
-> I craft modern, high-quality mobile apps where **clean architecture** meets **thoughtful design**.
-> I care about the small details — the ones that make an app feel effortless and refined.
->
-> 🔭 &nbsp;Focused on building intuitive, lasting interfaces
-> 🌱 &nbsp;Always learning, always refining
-> 💬 &nbsp;Talk to me about **Flutter**, **Dart** & **UI/UX**
+```yaml
+name: Abdullah Debo
 
-<br/>
+role: Flutter Developer
 
-<!-- ════════════════════════════════════════ -->
-<!--               TECH STACK                  -->
-<!-- ════════════════════════════════════════ -->
-### ⟡ &nbsp;Tech Stack
+focus:
+  - Clean Architecture
+  - BLoC / Cubit
+  - High Performance Apps
+  - Modern UI/UX
 
-|  |  |
-|---|---|
-| **Framework** | <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="32" /> |
-| **State & Logic** | `Cubit` &nbsp;·&nbsp; `BLoC` &nbsp;·&nbsp; `Clean Architecture` |
-| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="32" /> &nbsp; `REST APIs` |
-| **Design & Tools** | <img src="https://skillicons.dev/icons?i=figma,git,github&theme=dark" height="32" /> |
+currently_learning:
+  - Advanced Flutter Animations
+  - Scalable Architecture
+  - Mobile Performance Optimization
 
-<br/>
+mission:
+  Building apps that users love and developers enjoy maintaining.
+```
 
-<!-- ════════════════════════════════════════ -->
-<!--              GITHUB STATS                 -->
-<!-- ════════════════════════════════════════ -->
-### ⟡ &nbsp;GitHub Stats
+---
+
+# 🚀 Tech Arsenal
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdullahdebo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=13B5F3&icon_color=13B5F3&text_color=8B949E&bg_color=0D1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdebo&layout=compact&hide_border=true&langs_count=6&title_color=13B5F3&text_color=8B949E&bg_color=0D1117" />
-
-<br/>
-
-<img height="160" src="https://streak-stats.demolab.com?user=abdullahdebo&hide_border=true&background=0D1117&stroke=21262D&ring=13B5F3&fire=13B5F3&currStreakLabel=13B5F3&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dayLabels=8B949E" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode,postman&perline=8" />
 
 </div>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════ -->
-<!--                FOOTER                     -->
-<!-- ════════════════════════════════════════ -->
+# 🎯 What I Care About
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎨 UI Excellence
+
+Pixel-perfect layouts
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Architecture
+
+Scalable codebases
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Performance
+
+Smooth user experience
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 Development Activity
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:13B5F3&height=110&section=footer" width="100%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdullahdebo&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<sub><em>“Good design is as little design as possible.”</em></sub>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdebo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abdullahdebo&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌌 Connect With Me
+
+<div align="center">
+
+<a href="https://adebo.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="mailto:abdullah.alskh.debo@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF00AA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdullah-debo-2374a317b">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code. Design. Refine. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:00E5FF,100:8A2BE2&section=footer"/>
 
 </div>
