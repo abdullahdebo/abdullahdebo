@@ -1,122 +1,131 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey,+I'm+Abdullah+Debo;Flutter+Developer;Building+Beautiful+Mobile+Experiences" />
+# 🎮 CHARACTER PROFILE
 
-<br>
-
-<img src="https://img.shields.io/badge/Flutter-Expert-00E5FF?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean_Architecture-Advanced-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI%2FUX-Lover-FF00AA?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=abdullahdebo&data=followers,repositories,stars,commits&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=13B5F3&center=true&vCenter=true&width=700&lines=Abdullah+Debo;Flutter+Engineer;Mobile+Experience+Creator" />
 
 </div>
 
 ---
 
-# ⚡ About Me
+# 🧙 Character Sheet
 
 ```yaml
-name: Abdullah Debo
+Name: Abdullah Debo
 
-role: Flutter Developer
+Class: Flutter Engineer
 
-focus:
+Rank: Mobile App Specialist
+
+Level: 8
+
+Guild:
+  - Flutter Community
+  - Mobile Development
+
+Alignment:
   - Clean Architecture
-  - BLoC / Cubit
-  - High Performance Apps
+  - Scalable Code
   - Modern UI/UX
 
-currently_learning:
-  - Advanced Flutter Animations
-  - Scalable Architecture
-  - Mobile Performance Optimization
+Current Status:
+  - Available for new challenges
 
-mission:
-  Building apps that users love and developers enjoy maintaining.
+Mana:
+  - Coffee ☕ + Flutter 💙
 ```
 
 ---
 
-# 🚀 Tech Arsenal
+# ⚔ Core Skills
+
+| Skill | Level |
+|---------|---------|
+| Flutter | ██████████ |
+| Dart | ██████████ |
+| Clean Architecture | ██████████ |
+| Cubit / BLoC | ██████████ |
+| Firebase | ████████░░ |
+| UI/UX | █████████░ |
+| REST APIs | █████████░ |
+
+---
+
+# 🎒 Inventory
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode&perline=7" />
 
 </div>
 
 ---
 
-# 🎯 What I Care About
+# 🏆 Achievements Unlocked
 
-<table>
-<tr>
-<td width="33%" align="center">
+✅ Built production Flutter applications
 
-### 🎨 UI Excellence
+✅ Implemented scalable Clean Architecture
 
-Pixel-perfect layouts
+✅ Created premium UI experiences
 
-</td>
+✅ Integrated Firebase services
 
-<td width="33%" align="center">
+✅ Developed complex state management solutions
 
-### ⚙️ Architecture
-
-Scalable codebases
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚀 Performance
-
-Smooth user experience
-
-</td>
-</tr>
-</table>
+✅ Delivered real-world client projects
 
 ---
 
-# 📊 Development Activity
+# 🗺 Current Quest
+
+```yaml
+Mission:
+  Build elegant mobile applications
+  that feel effortless for users
+  and remain maintainable for developers.
+
+Objectives:
+  - Better architecture
+  - Better UX
+  - Better performance
+  - Continuous learning
+```
+
+---
+
+# 📜 Developer Lore
+
+> I enjoy transforming ideas into polished mobile experiences.
+>
+> My focus is not only making applications work,
+> but making them feel intuitive, refined, and enjoyable to use.
+
+---
+
+# 📊 Character Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdullahdebo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullahdebo&show_icons=true&hide_border=true&theme=transparent&title_color=13B5F3&icon_color=13B5F3" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdebo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdebo&layout=compact&hide_border=true&theme=transparent&title_color=13B5F3" />
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abdullahdebo&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=abdullahdebo&hide_border=true&background=00000000&ring=13B5F3&fire=13B5F3&currStreakLabel=13B5F3" />
 
 </div>
 
 ---
 
-# 🌌 Connect With Me
+# 🌍 Fast Travel
 
 <div align="center">
 
-<a href="https://adebo.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="mailto:abdullah.alskh.debo@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF00AA?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abdullah-debo-2374a317b">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[🌐 Portfolio](https://adebo.netlify.app) •
+[💼 LinkedIn](https://www.linkedin.com/in/abdullah-debo-2374a317b) •
+[📧 Email](mailto:abdullah.alskh.debo@gmail.com)
 
 </div>
 
@@ -124,8 +133,10 @@ Smooth user experience
 
 <div align="center">
 
-### ⚡ Code. Design. Refine. Repeat.
+## 🎯 Final Objective
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:00E5FF,100:8A2BE2&section=footer"/>
+*"Build apps people enjoy using and developers enjoy maintaining."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:13B5F3&height=120&section=footer"/>
 
 </div>
