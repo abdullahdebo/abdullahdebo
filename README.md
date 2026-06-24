@@ -1,109 +1,105 @@
 <div align="center">
 
-# 🎮 CHARACTER PROFILE
+# 🚧 Abdullah Debo
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=13B5F3&center=true&vCenter=true&width=700&lines=Abdullah+Debo;Flutter+Engineer;Mobile+Experience+Creator" />
+### Flutter Developer • UI Enthusiast • Professional Bug Hunter
+
+```text
+SYSTEM STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Developer ............ Abdullah Debo
+Role ................. Flutter Developer
+Current State ........ Under Construction
+Coffee Level ......... ██████████ 100%
+Sleep Level .......... ██░░░░░░░░ 20%
+Bug Resistance ....... ████████░░ 80%
+
+Last Update .......... Just One More Commit™
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=13B5F3&center=true&vCenter=true&width=700&lines=Building+beautiful+mobile+experiences...;Fixing+one+bug+at+a+time...;Probably+refactoring+something+right+now..." />
 
 </div>
 
 ---
 
-# 🧙 Character Sheet
+# 🔧 Installation Progress
 
-```yaml
-Name: Abdullah Debo
+```text
+Installing Developer Components...
 
-Class: Flutter Engineer
+[████████████████████] Flutter Expertise
+[███████████████████░] Clean Architecture
+[██████████████████░░] UI/UX Perfectionism
+[█████████████████░░░] Firebase Wizardry
+[██████████████████░░] State Management
+[███████████████████░] Problem Solving
 
-Rank: Mobile App Specialist
+Overall Progress:
 
-Level: 8
-
-Guild:
-  - Flutter Community
-  - Mobile Development
-
-Alignment:
-  - Clean Architecture
-  - Scalable Code
-  - Modern UI/UX
-
-Current Status:
-  - Available for new challenges
-
-Mana:
-  - Coffee ☕ + Flutter 💙
+[████████████████░░░░] 82%
 ```
 
 ---
 
-# ⚔ Core Skills
+# ⚠ Known Issues
 
-| Skill | Level |
-|---------|---------|
-| Flutter | ██████████ |
-| Dart | ██████████ |
-| Clean Architecture | ██████████ |
-| Cubit / BLoC | ██████████ |
-| Firebase | ████████░░ |
-| UI/UX | █████████░ |
-| REST APIs | █████████░ |
+```yaml
+issues:
+  - Sometimes spends 2 hours aligning widgets perfectly
+  - Believes every animation can be smoother
+  - Refactors working code because "it can be cleaner"
+  - Says "small change" before rewriting half the screen
+```
 
 ---
 
-# 🎒 Inventory
+# 🛠 Developer Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode,postman&perline=8" />
 
 </div>
 
 ---
 
-# 🏆 Achievements Unlocked
+# 📦 Currently Building
 
-✅ Built production Flutter applications
+```text
+📱 Premium Mobile Applications
 
-✅ Implemented scalable Clean Architecture
+🎨 Modern User Interfaces
 
-✅ Created premium UI experiences
+⚡ Smooth User Experiences
 
-✅ Integrated Firebase services
+🏗 Scalable Architectures
 
-✅ Developed complex state management solutions
-
-✅ Delivered real-world client projects
-
----
-
-# 🗺 Current Quest
-
-```yaml
-Mission:
-  Build elegant mobile applications
-  that feel effortless for users
-  and remain maintainable for developers.
-
-Objectives:
-  - Better architecture
-  - Better UX
-  - Better performance
-  - Continuous learning
+🔥 Flutter Projects That Don't Feel Like Flutter Apps
 ```
 
 ---
 
-# 📜 Developer Lore
+# ☕ Runtime Requirements
 
-> I enjoy transforming ideas into polished mobile experiences.
->
-> My focus is not only making applications work,
-> but making them feel intuitive, refined, and enjoyable to use.
+```bash
+flutter --version
+✓ Installed
+
+dart --version
+✓ Installed
+
+coffee --version
+✓ Critical Dependency Found
+
+sleep --version
+✗ Package Not Found
+```
 
 ---
 
-# 📊 Character Statistics
+# 📊 Live Statistics
 
 <div align="center">
 
@@ -111,7 +107,7 @@ Objectives:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdebo&layout=compact&hide_border=true&theme=transparent&title_color=13B5F3" />
 
-<br>
+<br/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=abdullahdebo&hide_border=true&background=00000000&ring=13B5F3&fire=13B5F3&currStreakLabel=13B5F3" />
 
@@ -119,13 +115,38 @@ Objectives:
 
 ---
 
-# 🌍 Fast Travel
+# 🌍 Contact Terminal
+
+```bash
+$ connect --portfolio
+
+Opening portfolio...
+✓ Connected
+
+$ connect --linkedin
+
+Opening LinkedIn...
+✓ Connected
+
+$ connect --email
+
+Ready to receive messages...
+✓ Online
+```
 
 <div align="center">
 
-[🌐 Portfolio](https://adebo.netlify.app) •
-[💼 LinkedIn](https://www.linkedin.com/in/abdullah-debo-2374a317b) •
-[📧 Email](mailto:abdullah.alskh.debo@gmail.com)
+<a href="https://adebo.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-13B5F3?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdullah-debo-2374a317b">
+<img src="https://img.shields.io/badge/LinkedIn-13B5F3?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:abdullah.alskh.debo@gmail.com">
+<img src="https://img.shields.io/badge/Email-13B5F3?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -133,9 +154,19 @@ Objectives:
 
 <div align="center">
 
-## 🎯 Final Objective
+## 🚀 Upgrade In Progress
 
-*"Build apps people enjoy using and developers enjoy maintaining."*
+```text
+Please wait...
+
+Installing:
+✔ Better Code
+✔ Better Design
+✔ Better Performance
+
+Pending:
+⏳ World Domination
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:13B5F3&height=120&section=footer"/>
 
